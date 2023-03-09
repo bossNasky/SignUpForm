@@ -1,0 +1,21 @@
+:root {
+  --clr-primary-400: hsl(0, 100%, 74%);
+  --clr-primary-300: hsl(154, 59%, 51%);
+  --clr-primary-200: hsl(248, 32%, 49%);
+  --clr-neutral-400: hsl(249, 10%, 26%);
+  --clr-neutral-300: hsl(246, 25%, 77%);
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+
+  font-weight: 400;
+}
