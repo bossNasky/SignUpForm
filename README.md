@@ -1,12 +1,12 @@
 <p id="readme-top"></p>
 <div align="center">
-  <h3 align="center">Ping Single Column</h3>
+  <h3 align="center">Sign Up Form</h3>
 
   <p align="center">
-     Ping Single Column based on frontend mentor design..
+     Sign Up Form based on frontend mentor design..
     <br />
     <br />
-    <a href="https://ping-single-column-rho.vercel.app/">View Demo</a>
+    <a href="https://sign-up-form-mm1rymkfp-bossnasky.vercel.app/">View Demo</a>
   </p>
 </div>
 
@@ -33,7 +33,8 @@
 
 ## About The Project
 
-Ping Single Column..
+Enter valid data and register on our website :)
+Be careful, forms expect relevant data..
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
